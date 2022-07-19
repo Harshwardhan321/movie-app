@@ -1,4 +1,4 @@
-Deployed Link - 
+Deployed Link - https://favmovies-web.netlify.app/
 
 Source code - https://github.com/Harshwardhan321/movie-app
 
